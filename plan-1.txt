@@ -4,3 +4,4 @@ PLan 1:
 3. Olaharaga pagi seperti jogging dll
 4. Belajar pemograman C#
 5. Selalu mencatat harian di notion
+6. Jangan lupa istirahat dengan cukup
